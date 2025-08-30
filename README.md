@@ -116,5 +116,12 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/N1wan7ha/N1wan7ha/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <!-- Dark mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1wan7ha/N1wan7ha/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N1wan7ha/N1wan7ha/output/github-contribution-grid-snake-light.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/N1wan7ha/N1wan7ha/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
+
