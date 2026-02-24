@@ -26,7 +26,7 @@ I am a Software Engineer specializing in artificial intelligence, scalable data 
 
 * **[Multi-Sport Analytics & AI Prediction Platform](https://github.com/N1wan7ha)** *Python, Scikit-learn, TensorFlow, Django, PostgreSQL, Docker* — Developed an end-to-end machine learning architecture for outcome prediction, featuring automated data collection, feature engineering, and a containerized interactive dashboard.
 
-* **Smart Server Room Monitoring System** *Node-RED, n8n, MongoDB* — Architected a real-time IoT telemetry processing pipeline to ingest sensor data, orchestrating automated incident alerting and time-series data storage.
+* **[Smart Server Room Monitoring System](https://github.com/N1wan7ha/smart-server-monitor_IoT)** *Node-RED, n8n, MongoDB* — Architected a real-time IoT telemetry processing pipeline to ingest sensor data, orchestrating automated incident alerting and time-series data storage.
 
 * **[Nest-Next Real-Time Chat Application](https://github.com/N1wan7ha/Nest-Next-ChatRoom-APP)** *NestJS, Next.js, MongoDB, Socket.IO* — Developed a highly scalable, low-latency communication platform employing a modular microservices backend and secure JWT-based authentication.
 
