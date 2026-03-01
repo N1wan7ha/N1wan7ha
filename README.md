@@ -45,21 +45,16 @@ I am a Software Engineer specializing in artificial intelligence, scalable data 
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=N1wan7ha&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1wan7ha&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" alt="Top Languages" />
+  <img width="100%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1wan7ha&theme=github_dark" 
+       alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=N1wan7ha&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1wan7ha/N1wan7ha/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N1wan7ha/N1wan7ha/output/github-contribution-grid-snake-light.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/N1wan7ha/N1wan7ha/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img width="60%" 
+       src="https://streak-stats.demolab.com?user=N1wan7ha&theme=github-dark&hide_border=true" 
+       alt="GitHub Contribution Streak" />
 </p>
