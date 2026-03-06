@@ -24,7 +24,7 @@ I am a Software Engineer specializing in artificial intelligence, scalable data 
 
 * **[Agentic AI Marketing Workflow Automation](https://github.com/N1wan7ha/agentic-ai-marketing-workflow-n8n)** *n8n, Groq API, Llama 3, REST APIs* — Engineered an automated content pipeline orchestrating multi-agent AI workflows. The system autonomously conducts web research and generates optimized copy via Llama 3.
 
-* **[Multi-Sport Analytics & AI Prediction Platform](https://github.com/N1wan7ha)** *Python, Scikit-learn, TensorFlow, Django, PostgreSQL, Docker* — Developed an end-to-end machine learning architecture for outcome prediction, featuring automated data collection, feature engineering, and a containerized interactive dashboard.
+* **[Multi-Sport Analytics & AI Prediction Platform](https://github.com/N1wan7ha/Multi-Sport_Analytics-AI-Prediction_Platform)** *Python, Scikit-learn, TensorFlow, Django, PostgreSQL, Docker* — Developed an end-to-end machine learning architecture for outcome prediction, featuring automated data collection, feature engineering, and a containerized interactive dashboard.
 
 * **[Smart Server Room Monitoring System](https://github.com/N1wan7ha/smart-server-monitor_IoT)** *Node-RED, n8n, MongoDB* — Architected a real-time IoT telemetry processing pipeline to ingest sensor data, orchestrating automated incident alerting and time-series data storage.
 
