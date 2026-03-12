@@ -14,7 +14,7 @@
 
 I am a Software Engineer specializing in artificial intelligence, scalable data pipelines, and production-grade cloud infrastructure. My focus is on bridging the gap between data science experimentation and system reliability through modern MLOps and CI/CD practices.
 
-* **Currently:** Software Engineer at Development Lotteries Board — Architecting AI-driven data extraction pipelines (OCR/Gemini AI) and managing Dockerized microservices.
+* **Currently:** Software Engineer at Development Lotteries Board - Architecting AI-driven data extraction pipelines (OCR/Gemini AI) and managing Dockerized microservices.
 * **Cloud & Infrastructure:** Microsoft Certified Azure Fundamentals (AZ-900). Advancing toward AZ-104.
 * **Core Focus:** LLM Orchestration, Real-time Data Pipelines, Containerization, and System Automation.
 
@@ -22,13 +22,13 @@ I am a Software Engineer specializing in artificial intelligence, scalable data 
 
 ## Featured Engineering Work
 
-* **[Agentic AI Marketing Workflow Automation](https://github.com/N1wan7ha/agentic-ai-marketing-workflow-n8n)** *n8n, Groq API, Llama 3, REST APIs* — Engineered an automated content pipeline orchestrating multi-agent AI workflows. The system autonomously conducts web research and generates optimized copy via Llama 3.
+* **[Agentic AI Marketing Workflow Automation](https://github.com/N1wan7ha/agentic-ai-marketing-workflow-n8n)** *n8n, Groq API, Llama 3, REST APIs* - Engineered an automated content pipeline orchestrating multi-agent AI workflows. The system autonomously conducts web research and generates optimized copy via Llama 3.
 
-* **[Multi-Sport Analytics & AI Prediction Platform](https://github.com/N1wan7ha/Multi-Sport_Analytics-AI-Prediction_Platform)** *Python, Scikit-learn, TensorFlow, Django, PostgreSQL, Docker* — Developed an end-to-end machine learning architecture for outcome prediction, featuring automated data collection, feature engineering, and a containerized interactive dashboard.
+* **[Multi-Sport Analytics & AI Prediction Platform](https://github.com/N1wan7ha/Multi-Sport_Analytics-AI-Prediction_Platform)** *Python, Scikit-learn, TensorFlow, Django, PostgreSQL, Docker* - Developed an end-to-end machine learning architecture for outcome prediction, featuring automated data collection, feature engineering, and a containerized interactive dashboard.
 
-* **[Smart Server Room Monitoring System](https://github.com/N1wan7ha/smart-server-monitor_IoT)** *Node-RED, n8n, MongoDB* — Architected a real-time IoT telemetry processing pipeline to ingest sensor data, orchestrating automated incident alerting and time-series data storage.
+* **[Smart Server Room Monitoring System](https://github.com/N1wan7ha/smart-server-monitor_IoT)** *Node-RED, n8n, MongoDB* - Architected a real-time IoT telemetry processing pipeline to ingest sensor data, orchestrating automated incident alerting and time-series data storage.
 
-* **[Nest-Next Real-Time Chat Application](https://github.com/N1wan7ha/Nest-Next-ChatRoom-APP)** *NestJS, Next.js, MongoDB, Socket.IO* — Developed a highly scalable, low-latency communication platform employing a modular microservices backend and secure JWT-based authentication.
+* **[Nest-Next Real-Time Chat Application](https://github.com/N1wan7ha/Nest-Next-ChatRoom-APP)** *NestJS, Next.js, MongoDB, Socket.IO* - Developed a highly scalable, low-latency communication platform employing a modular microservices backend and secure JWT-based authentication.
 
 ---
 
