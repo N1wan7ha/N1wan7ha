@@ -49,7 +49,7 @@ I am a Software Engineer specializing in artificial intelligence, scalable data 
 
 <p align="center">
   <img width="100%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1wan7ha&theme=github_dark" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1wan7ha&theme=github_dark"
        alt="GitHub Profile Summary" />
 </p>
 
