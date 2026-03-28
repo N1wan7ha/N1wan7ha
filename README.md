@@ -45,7 +45,7 @@ I am a Software Engineer specializing in artificial intelligence, scalable data 
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="100%" 
