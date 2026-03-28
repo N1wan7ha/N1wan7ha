@@ -55,6 +55,6 @@ I am a Software Engineer specializing in artificial intelligence, scalable data 
 
 <p align="center">
   <img width="60%" 
-       src="https://streak-stats.demolab.com?user=N1wan7ha&theme=github-dark&hide_border=true" 
+       src="https://streak-stats.demolab.com/?user=N1wan7ha&theme=github-dark&hide_border=true" 
        alt="GitHub Contribution Streak" />
 </p>
