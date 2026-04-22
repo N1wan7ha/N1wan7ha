@@ -6,6 +6,7 @@
 <p align="center">
   <a href="mailto:niwantha2885@gmail.com">niwantha2885@gmail.com</a> • 
   <a href="https://linkedin.com/in/niwanthasithumal">LinkedIn</a>
+  <a href="https://huggingface.co/n1wan7ha">HuggingFace</a>
 </p>
 
 ---
